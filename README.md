@@ -1,4 +1,4 @@
-# ESP32 IoT Telemetry & Model Context Protocol (MCP) Home Automation
+# ESP32 Model Context Protocol (MCP) Home Automation
 
 An embedded systems and AI-integration project designed for a home workshop environment. This repository connects microcontroller sensor nodes (ESP32) over local Wi-Fi to a Python backend server implementing **Model Context Protocol (MCP)** standards, allowing AI agents to monitor and control home appliances (fans, lights, power circuits) in real time.
 
